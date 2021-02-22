@@ -67,11 +67,11 @@
     <Button
         android:id="@+id/input_sign_in"
         android:layout_width="219dp"
-        android:layout_height="33dp"
+        android:layout_height="wrap_content"
         android:background="@drawable/round_button"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/dusty_white"
         android:text="@string/sign_in"
-        android:layout_marginTop="@dimen/input_margin"
+        android:layout_marginTop="30dp"
         />
 </LinearLayout>
