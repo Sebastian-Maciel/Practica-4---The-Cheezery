@@ -9,4 +9,9 @@
     <color name="accent_pink">#FE2BD0</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="price_color">#9E2E81</color>
+    <color name="description_color">#262525</color>
+    <color name="name_color">#B60089</color>
+
+
 </resources>
