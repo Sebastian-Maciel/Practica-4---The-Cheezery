@@ -58,7 +58,7 @@
             android:paddingVertical="@dimen/menu_buttons_paddings_v"
             />
         <Button
-            android:id="@+id/button_cold_sweets"
+            android:id="@+id/button_sweets"
             android:text="@string/sweets"
             android:textColor="@color/dusty_white"
             android:background="@drawable/second_gradient"
